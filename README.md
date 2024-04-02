@@ -14,3 +14,16 @@ Employee Payout: Users can calculate the total pay for an employee by entering t
 Delete Employee: Users can remove an employee from the system by providing their ID. Optionally, a sack letter can be generated for the terminated employee.
 
 Menu-Driven Interface: The program provides a simple menu-driven interface for users to interact with.
+
+## How to Use
+Compile: Compile the program using a C++ compiler.
+
+Run: Execute the compiled program.
+
+Menu Selection: Choose options from the displayed menu by entering the corresponding number.
+Option 1: Add new employee
+Option 2: Print all employees' info
+Option 3: Print employee salary by ID
+Option 4: Employee payout
+Option 5: Delete employee
+Option 6: Exit
